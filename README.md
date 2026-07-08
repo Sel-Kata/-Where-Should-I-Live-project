@@ -8,3 +8,6 @@ To support this initiative, a data science task force was assembled, comprised o
 
 My project,"Where Should I Live", aims to simplify this decision-making process by analyzing key characteristics of European countries, such as cost of living, safety,
 and employment. Through exploratory analysis, visualizations, and interpretable insights, my goal is to build a framework that empowers users to evaluate which countries align best with their personal values and life goals.
+
+
+helllllooooooo
